@@ -1,6 +1,0 @@
-admin, adm1n
-davey, d4vey
-erika, er1ka
-derek, d3rek
-james, j4mes
-jimmy, j1mmy
