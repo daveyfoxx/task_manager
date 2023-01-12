@@ -1,0 +1,7 @@
+boabo, pick up coffee, go to starbucks and pick up some coffee, 15 Dec 2022, 15 Dec 2022, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 18 Dec 2022, No
+admin, clean kitchen, wipe the counters and wash dishes, 17 Dec 2022, 18 Dec 2022, Yes
+erika, order filing cabinet, order a new filing cabinet for the office from ikea, 25 Dec 2022, 22 Dec 2022, No
+boabo, install new version of Mac OS, Install latest version of Mac OS on the office computers, 30 Dec 2022, 22 Dec 2022, No
+davey, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 17 Dec 2022, Yes
+davey, pick up a steak pie, go to the shop and get a nice steak pie, 17 Dec 2022, 16 Dec 2022, Yes

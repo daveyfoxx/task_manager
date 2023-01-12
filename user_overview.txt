@@ -1,0 +1,107 @@
+
+< -------- USER OVERVIEW REPORT -------->
+------------------------------------------------------------
+
+Total number of users registered: 11
+Total number of tasks generated: 7
+
+------------------------------------------------------------
+
+User: admin
+Number of tasks assigned: 2
+Percentage of tasks assigned: 29%
+Percentage of tasks completed: 14%
+Percentage of tasks still to complete: 14%
+Percentage of tasks overdue: 14%
+
+------------------------------------------------------------
+
+User: davey
+Number of tasks assigned: 2
+Percentage of tasks assigned: 29%
+Percentage of tasks completed: 29%
+Percentage of tasks still to complete: 0%
+Percentage of tasks overdue: 0%
+
+------------------------------------------------------------
+
+User: erika
+Number of tasks assigned: 1
+Percentage of tasks assigned: 14%
+Percentage of tasks completed: 0%
+Percentage of tasks still to complete: 14%
+Percentage of tasks overdue: 14%
+
+------------------------------------------------------------
+
+User: derek
+Number of tasks assigned: 0
+Percentage of tasks assigned: 0%
+Percentage of tasks completed: 0%
+Percentage of tasks still to complete: 0%
+Percentage of tasks overdue: 0%
+
+------------------------------------------------------------
+
+User: james
+Number of tasks assigned: 0
+Percentage of tasks assigned: 0%
+Percentage of tasks completed: 0%
+Percentage of tasks still to complete: 0%
+Percentage of tasks overdue: 0%
+
+------------------------------------------------------------
+
+User: jimmy
+Number of tasks assigned: 0
+Percentage of tasks assigned: 0%
+Percentage of tasks completed: 0%
+Percentage of tasks still to complete: 0%
+Percentage of tasks overdue: 0%
+
+------------------------------------------------------------
+
+User: boabo
+Number of tasks assigned: 2
+Percentage of tasks assigned: 29%
+Percentage of tasks completed: 0%
+Percentage of tasks still to complete: 29%
+Percentage of tasks overdue: 29%
+
+------------------------------------------------------------
+
+User: greg
+Number of tasks assigned: 0
+Percentage of tasks assigned: 0%
+Percentage of tasks completed: 0%
+Percentage of tasks still to complete: 0%
+Percentage of tasks overdue: 0%
+
+------------------------------------------------------------
+
+User: gowbo
+Number of tasks assigned: 0
+Percentage of tasks assigned: 0%
+Percentage of tasks completed: 0%
+Percentage of tasks still to complete: 0%
+Percentage of tasks overdue: 0%
+
+------------------------------------------------------------
+
+User: steve
+Number of tasks assigned: 0
+Percentage of tasks assigned: 0%
+Percentage of tasks completed: 0%
+Percentage of tasks still to complete: 0%
+Percentage of tasks overdue: 0%
+
+------------------------------------------------------------
+
+User: michal
+Number of tasks assigned: 0
+Percentage of tasks assigned: 0%
+Percentage of tasks completed: 0%
+Percentage of tasks still to complete: 0%
+Percentage of tasks overdue: 0%
+
+------------------------------------------------------------
